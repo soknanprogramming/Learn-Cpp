@@ -1,0 +1,32 @@
+﻿  Main10.cpp
+  Main14.cpp
+  Main19.cpp
+D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\Destuctors\example1\Main19.cpp(8,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\Destuctors\example1\Main19.cpp(9,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main16.cpp
+  Main17.cpp
+  Main18.cpp
+  Main1.cpp
+  Main11.cpp
+  Main20.cpp
+  Main21.cpp
+  Main2.cpp
+  Main3.cpp
+  Main4.cpp
+  Main5.cpp
+  Main6.cpp
+  Main7.cpp
+  Main8.cpp
+  Main9.cpp
+  Main15.cpp
+  Main13.cpp
+  Compiling...
+  Main12.cpp
+  Static.cpp
+  Main22.cpp
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Learn-Cpp.vcxproj -> D:\Sn Learning\Learn Cpp\Learn-Cpp\x64\Release\Learn-Cpp.exe

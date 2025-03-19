@@ -1,5 +1,6 @@
 #include <iostream>
 
-int fakemain() {
+int fakemain0() {
 	std::cout << "Hello world";
+	return 0;
 }

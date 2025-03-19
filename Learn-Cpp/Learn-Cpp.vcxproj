@@ -19,7 +19,36 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Leaning\HowStringWork\example1\Main.cpp" />
+    <ClCompile Include="Leaning\ClassesVSStructs\example1\Main10.cpp" />
+    <ClCompile Include="Leaning\Constructors\exmaple1\Main14.cpp" />
+    <ClCompile Include="Leaning\Const\example1\Main25.cpp" />
+    <ClCompile Include="Leaning\Const\example2\Main26.cpp" />
+    <ClCompile Include="Leaning\Const\example3\Main27.cpp" />
+    <ClCompile Include="Leaning\Const\example4\Main28.cpp" />
+    <ClCompile Include="Leaning\Const\example5\Main29.cpp" />
+    <ClCompile Include="Leaning\Destuctors\example1\Main19.cpp" />
+    <ClCompile Include="Leaning\Enums\example1\Main16.cpp" />
+    <ClCompile Include="Leaning\Enums\example2\Main17.cpp" />
+    <ClCompile Include="Leaning\Enums\example3\Main18.cpp" />
+    <ClCompile Include="Leaning\HowStringWork\example1\Main1.cpp" />
+    <ClCompile Include="Leaning\HowToWriteClass\example1\Main11.cpp" />
+    <ClCompile Include="Leaning\Inheritance\example1\Main20.cpp" />
+    <ClCompile Include="Leaning\Inheritance\example2\Main21.cpp" />
+    <ClCompile Include="Leaning\Interfaces\example1\Main23.cpp" />
+    <ClCompile Include="Leaning\Pointers\example1\Main2.cpp" />
+    <ClCompile Include="Leaning\Pointers\example2\Main3.cpp" />
+    <ClCompile Include="Leaning\Pointers\example3\Main4.cpp" />
+    <ClCompile Include="Leaning\Pointers\test\Main5.cpp" />
+    <ClCompile Include="Leaning\References\example1\Main6.cpp" />
+    <ClCompile Include="Leaning\References\example2\Main7.cpp" />
+    <ClCompile Include="Leaning\References\example3\Main8.cpp" />
+    <ClCompile Include="Leaning\References\example4\Main9.cpp" />
+    <ClCompile Include="Leaning\StaticForClassAndStruct\example1\Main15.cpp" />
+    <ClCompile Include="Leaning\StaticForClassesAndStruct\example1\Main13.cpp" />
+    <ClCompile Include="Leaning\Static\example1\Main12.cpp" />
+    <ClCompile Include="Leaning\Static\example1\Static.cpp" />
+    <ClCompile Include="Leaning\VirtualFunctions\example1\Main22.cpp" />
+    <ClCompile Include="Leaning\Visibility\example1\Main24.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

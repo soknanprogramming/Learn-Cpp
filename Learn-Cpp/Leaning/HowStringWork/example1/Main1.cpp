@@ -2,7 +2,7 @@
 #include <string>  
 #include <stdlib.h>  
 
-int fakemain() {  
+int fakemain1() {  
    using namespace std::string_literals;  
 
    std::u32string name0 = U"Cherno"s + U" Hello";  

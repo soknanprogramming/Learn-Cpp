@@ -108,5 +108,26 @@
     <ClCompile Include="Leaning\Const\example5\Main29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Leaning\Mutable\example1\Main30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\MemberInitializerLists\example1\Main31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\MemberInitializerLists\example2\Main32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example1\Main33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example2\Main34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example3\Main35.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaning\NewKeyword\example1\Main36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

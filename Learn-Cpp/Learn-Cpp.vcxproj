@@ -26,6 +26,9 @@
     <ClCompile Include="Leaning\Const\example3\Main27.cpp" />
     <ClCompile Include="Leaning\Const\example4\Main28.cpp" />
     <ClCompile Include="Leaning\Const\example5\Main29.cpp" />
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example1\Main33.cpp" />
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example2\Main34.cpp" />
+    <ClCompile Include="Leaning\CreateAndInstantiateObjects\example3\Main35.cpp" />
     <ClCompile Include="Leaning\Destuctors\example1\Main19.cpp" />
     <ClCompile Include="Leaning\Enums\example1\Main16.cpp" />
     <ClCompile Include="Leaning\Enums\example2\Main17.cpp" />
@@ -35,6 +38,10 @@
     <ClCompile Include="Leaning\Inheritance\example1\Main20.cpp" />
     <ClCompile Include="Leaning\Inheritance\example2\Main21.cpp" />
     <ClCompile Include="Leaning\Interfaces\example1\Main23.cpp" />
+    <ClCompile Include="Leaning\MemberInitializerLists\example1\Main31.cpp" />
+    <ClCompile Include="Leaning\MemberInitializerLists\example2\Main32.cpp" />
+    <ClCompile Include="Leaning\Mutable\example1\Main30.cpp" />
+    <ClCompile Include="Leaning\NewKeyword\example1\Main36.cpp" />
     <ClCompile Include="Leaning\Pointers\example1\Main2.cpp" />
     <ClCompile Include="Leaning\Pointers\example2\Main3.cpp" />
     <ClCompile Include="Leaning\Pointers\example3\Main4.cpp" />

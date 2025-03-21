@@ -3,7 +3,7 @@
 class Entity {
 private: 
 	int x = 1, y = 2;
-	mutable int var;
+	mutable int var = 1;
 public:
 	int GetX() const {
 		var = 3;

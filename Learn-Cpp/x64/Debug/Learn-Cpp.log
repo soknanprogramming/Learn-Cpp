@@ -1,4 +1,2 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Two or more files with the name of Main18.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Leaning\LocalStatic\example1\Main18.cpp, Leaning\OptimizingTheUsageOfVector\example1\Main18.cpp.
-  Main28.cpp
-x64\Debug\Main18.obj : warning LNK4042: object specified more than once; extras ignored
-  Learn-Cpp.vcxproj -> D:\Sn Learning\Learn Cpp\Learn-Cpp\x64\Debug\Learn-Cpp.exe
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Sn Learning\Learn Cpp\Learn-Cpp\x64\Debug\Learn-Cpp.exe : fatal error LNK1120: 1 unresolved externals

@@ -19,21 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Leaning\ArrowOperator\example1\Main14.cpp" />
-    <ClCompile Include="Leaning\ArrowOperator\example2\Main15.cpp" />
-    <ClCompile Include="Leaning\ArrowOperator\example3\Main16.cpp" />
-    <ClCompile Include="Leaning\AutoKeyword\example1\Main27.cpp" />
-    <ClCompile Include="Leaning\AutoKeyword\example2\Main28.cpp" />
-    <ClCompile Include="Leaning\CopyingAndCopyConstructors\example1\Main12.cpp" />
-    <ClCompile Include="Leaning\CopyingAndCopyConstructors\example2\Main13.cpp" />
-    <ClCompile Include="Leaning\DynamicArray\example1\Main17.cpp" />
-    <ClCompile Include="Leaning\ImplicitConversionAndTheExplicitKeyword\example1\Main2.cpp" />
-    <ClCompile Include="Leaning\ImplicitConversionAndTheExplicitKeyword\example2\Main3.cpp" />
-    <ClCompile Include="Leaning\LocalStatic\example1\Main18.cpp" />
-    <ClCompile Include="Leaning\LocalStatic\example2\Main19.cpp" />
-    <ClCompile Include="Leaning\Macros\example1\Main24.cpp" />
-    <ClCompile Include="Leaning\Macros\example2\Main25.cpp" />
-    <ClCompile Include="Leaning\Macros\example3\Main26.cpp" />
     <ClCompile Include="Leaning\MainA.cpp" />
     <ClCompile Include="Leaning\NewKeyword\example1\Main.cpp" />
     <ClCompile Include="Leaning\ObjectLifetime\example1\Main8.cpp" />

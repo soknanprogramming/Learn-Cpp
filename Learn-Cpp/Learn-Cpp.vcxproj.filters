@@ -18,12 +18,6 @@
     <ClCompile Include="Leaning\NewKeyword\example1\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Leaning\ImplicitConversionAndTheExplicitKeyword\example1\Main2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\ImplicitConversionAndTheExplicitKeyword\example2\Main3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Leaning\OperatorsAndOperatorOverloading\example1\Main4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -51,31 +45,7 @@
     <ClCompile Include="Leaning\SmartPointers\example1\Main11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Leaning\CopyingAndCopyConstructors\example1\Main12.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\CopyingAndCopyConstructors\example2\Main13.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\ArrowOperator\example1\Main14.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\ArrowOperator\example2\Main15.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\ArrowOperator\example3\Main16.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\DynamicArray\example1\Main17.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Leaning\OptimizingTheUsageOfVector\example1\Main18.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\LocalStatic\example1\Main18.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\LocalStatic\example2\Main19.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Leaning\Templates\example1\Main20.cpp">
@@ -88,21 +58,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Leaning\StackVSHeap\example1\Main23.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\Macros\example1\Main24.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\Macros\example2\Main25.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\Macros\example3\Main26.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\AutoKeyword\example1\Main27.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Leaning\AutoKeyword\example2\Main28.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,32 +1,37 @@
-﻿  Main10.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Two or more files with the name of Main18.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Leaning\LocalStatic\example1\Main18.cpp, Leaning\OptimizingTheUsageOfVector\example1\Main18.cpp.
   Main14.cpp
-  Main19.cpp
-D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\Destuctors\example1\Main19.cpp(8,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\Destuctors\example1\Main19.cpp(9,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main15.cpp
   Main16.cpp
+  Main12.cpp
+  Main13.cpp
+D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\CopyingAndCopyConstructors\example2\Main13.cpp(9,18): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
   Main17.cpp
-  Main18.cpp
-  Main1.cpp
-  Main11.cpp
-  Main20.cpp
-  Main21.cpp
   Main2.cpp
   Main3.cpp
+  Main18.cpp
+  Main19.cpp
+  Main24.cpp
+  Main25.cpp
+  MainA.cpp
+  Main.cpp
+D:\Sn Learning\Learn Cpp\Learn-Cpp\Learn-Cpp\Leaning\NewKeyword\example1\Main.cpp(12,19): warning C4227: anachronism used: qualifiers on reference are ignored
+  Main8.cpp
+  Main9.cpp
+  Main10.cpp
   Main4.cpp
   Main5.cpp
   Main6.cpp
-  Main7.cpp
-  Main8.cpp
-  Main9.cpp
-  Main15.cpp
-  Main13.cpp
   Compiling...
-  Main12.cpp
-  Static.cpp
+  Main18.cpp
+  Main11.cpp
+  Main23.cpp
+  Main20.cpp
+  Main21.cpp
   Main22.cpp
-  Main.cpp
+  Main7.cpp
+x64\Release\Main18.obj : warning LNK4042: object specified more than once; extras ignored
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Compiler switch has changed, fall back to full compilation.
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Learn-Cpp.vcxproj -> D:\Sn Learning\Learn Cpp\Learn-Cpp\x64\Release\Learn-Cpp.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Two or more files with the name of Main10.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Learning\MultidimensionalArrays\example1\Main10.cpp, Learning\MultidimensionalArrays\example2\Main10.cpp.
+  Main16.cpp
+x64\Debug\Main10.obj : warning LNK4042: object specified more than once; extras ignored
+Main16.obj : error LNK2005: main already defined in Main15.obj
+D:\Sn Learning\Learn Cpp\Learn-Cpp\x64\Debug\Learn-Cpp.exe : fatal error LNK1169: one or more multiply defined symbols found

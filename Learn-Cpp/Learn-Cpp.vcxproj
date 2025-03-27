@@ -127,23 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Learning\FunctionPointers\example1\Main2.cpp" />
-    <ClCompile Include="Learning\Lambdas\example1\Main5.cpp" />
     <ClCompile Include="Learning\MainA.cpp" />
-    <ClCompile Include="Learning\MultidimensionalArrays\example1\Main10.cpp" />
-    <ClCompile Include="Learning\MultidimensionalArrays\example2\Main10.cpp" />
-    <ClCompile Include="Learning\MultidimensionalArrays\example3\Main11.cpp" />
-    <ClCompile Include="Learning\MultidimensionalArrays\example4\Main12.cpp" />
-    <ClCompile Include="Learning\Namespaces\example1\Main6.cpp" />
-    <ClCompile Include="Learning\Sorting\example1\Main13.cpp" />
-    <ClCompile Include="Learning\StaticArray\example1\Main1.cpp" />
-    <ClCompile Include="Learning\StaticArray\example2\Main3.cpp" />
-    <ClCompile Include="Learning\StaticArray\example3\Main4.cpp" />
-    <ClCompile Include="Learning\Threads\example1\Main7.cpp" />
-    <ClCompile Include="Learning\Timing\example1\Main8.cpp" />
-    <ClCompile Include="Learning\Timing\example2\Main9.cpp" />
-    <ClCompile Include="Learning\TypePunning\example1\Main14.cpp" />
-    <ClCompile Include="Learning\TypePunning\example2\Main15.cpp" />
     <ClCompile Include="Learning\Unions\example1\Main16.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

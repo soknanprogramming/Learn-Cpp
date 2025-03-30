@@ -21,5 +21,35 @@
     <ClCompile Include="Learning\Unions\example1\Main16.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Learning\VirtualDestructors\example1\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\LvaluesAndRvalues\example1\Main1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\LvaluesAndRvalues\example2\Main2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\LvaluesAndRvalues\example3\Main3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\OptionalData\example1\Main4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\OptionalData\example2\Main5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example1\Main6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example2\Main7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example3\Main8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Learning\Benchmarking\example1\Main9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

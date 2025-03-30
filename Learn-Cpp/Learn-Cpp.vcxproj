@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -127,8 +128,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Learning\Benchmarking\example1\Main9.cpp" />
+    <ClCompile Include="Learning\LvaluesAndRvalues\example1\Main1.cpp" />
+    <ClCompile Include="Learning\LvaluesAndRvalues\example2\Main2.cpp" />
+    <ClCompile Include="Learning\LvaluesAndRvalues\example3\Main3.cpp" />
     <ClCompile Include="Learning\MainA.cpp" />
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example1\Main6.cpp" />
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example2\Main7.cpp" />
+    <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example3\Main8.cpp" />
+    <ClCompile Include="Learning\OptionalData\example1\Main4.cpp" />
+    <ClCompile Include="Learning\OptionalData\example2\Main5.cpp" />
     <ClCompile Include="Learning\Unions\example1\Main16.cpp" />
+    <ClCompile Include="Learning\VirtualDestructors\example1\Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

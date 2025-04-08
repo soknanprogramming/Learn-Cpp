@@ -129,6 +129,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Learning\Benchmarking\example1\Main9.cpp" />
+    <ClCompile Include="Learning\Casting\Main11.cpp" />
+    <ClCompile Include="Learning\Casting\Main12.cpp" />
+    <ClCompile Include="Learning\DynamicCasting\example1\Main13.cpp" />
+    <ClCompile Include="Learning\DynamicCasting\example2\Main14.cpp" />
     <ClCompile Include="Learning\LvaluesAndRvalues\example1\Main1.cpp" />
     <ClCompile Include="Learning\LvaluesAndRvalues\example2\Main2.cpp" />
     <ClCompile Include="Learning\LvaluesAndRvalues\example3\Main3.cpp" />
@@ -138,6 +142,7 @@
     <ClCompile Include="Learning\MultipleTypesOfDataInASingleVariable\example3\Main8.cpp" />
     <ClCompile Include="Learning\OptionalData\example1\Main4.cpp" />
     <ClCompile Include="Learning\OptionalData\example2\Main5.cpp" />
+    <ClCompile Include="Learning\StructuredBindings\example1\Main10.cpp" />
     <ClCompile Include="Learning\Unions\example1\Main16.cpp" />
     <ClCompile Include="Learning\VirtualDestructors\example1\Main.cpp" />
   </ItemGroup>

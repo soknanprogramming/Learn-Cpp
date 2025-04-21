@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 project(MyProject)
 
 # Add GLFW headers
-include_directories(include inc)
+include_directories(include)
 # Add GLFW library directory
 link_directories(lib)
 
